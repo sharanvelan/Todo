@@ -1,0 +1,29 @@
+
+.container{
+    padding: 1rem;
+    margin: 1rem;
+    width: 90%;
+    background-color: #f8f3f3;
+    border-radius: 20px;
+    color: #364c56;
+}
+
+.start{
+    display: flex;
+    justify-content: space-between;
+}
+
+.startTitle{
+    display: flex;
+    justify-content: left;
+}
+.dologo{
+    display: flex;
+}
+.content 
+{
+    display: flex;
+    justify-content:space-between;
+   margin-left: 4rem;
+   color: #556473;
+}

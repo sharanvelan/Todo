@@ -1,0 +1,9 @@
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.heading{
+  font-size: 60px;
+}
